@@ -1,10 +1,3 @@
-//  https://www.reddit.com/r/dailyprogrammer/comments/3h9pde/20150817_challenge_228_easy_letters_in/
-//  228.cpp
-//
-//  Created by Jason Yang on 8/17/15.
-//  Copyright (c) 2015 Jason Yang. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 #include <vector>
