@@ -1,2 +1,2 @@
 # DailyProgrammer
-daily programming exercises found at https://www.reddit.com/r/dailyprogrammer/
+Daily programming exercises found [here](https://www.reddit.com/r/dailyprogrammer/)
